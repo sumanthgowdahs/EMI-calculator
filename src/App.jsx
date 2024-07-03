@@ -1,6 +1,3 @@
-
-
-
 import React from 'react'
 import './App.css'
 import Emicalculator from './component/Emicalculator'

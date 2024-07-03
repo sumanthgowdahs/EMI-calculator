@@ -10,12 +10,12 @@ function Emicalculator() {
 
     // & load input change 
     let rangeChange = ({ target: { value } }) => {
-        console.log(value)
+        // console.log(value)
         setLoanAmount(value)
     }
     // & intrest input change 
     let intrestChange = ({ target: { value } }) => {
-        console.log(value)
+        // console.log(value)
         setIntrest(value)
     }
     //    & radio value change
