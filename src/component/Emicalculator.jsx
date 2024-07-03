@@ -34,7 +34,7 @@ function Emicalculator() {
     }
     let durationChange = ({target:{value}})=>{
         setDuration(value)
-        console.log(duration);
+        
     }
 
 
